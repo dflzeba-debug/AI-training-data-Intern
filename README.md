@@ -1,13 +1,13 @@
 # AI-training-data-Intern
 Digitization of 7 NCERT textbooks,text into latex and images into tikz .Raw text destroys the layout but latex turns  the textbooks into machine readable code.I was tasked with building a high precision dataset to train AI models.
 
-# 📚 NCERT English Textbooks Digitization & Qdrant Vector DB Ingestion Pipeline
+ NCERT English Textbooks Digitization & Qdrant Vector DB Ingestion Pipeline
 
 An end-to-end AI training data engineering pipeline designed to digitize 7 NCERT English textbooks into structured LaTeX markup and native TikZ vector graphics for high-precision Retrieval-Augmented Generation (RAG) systems and LLM fine-tuning.
 
 ---
 
-## 📌 Project Overview
+ Project Overview
 
 Raw OCR text extraction destroys visual hierarchy, sidebars, dialogue structures, and exercise formats, leading to context degradation and LLM hallucinations in EdTech applications. 
 
@@ -21,7 +21,7 @@ This project solves this challenge by systematically digitizing 7 NCERT English 
 
 ---
 
-## 🎒 Scope of Digitized Datasets (7 Textbooks)
+ Scope of Digitized Datasets (7 Textbooks)
 
 | Grade Level | Textbook Name | Type | Key Content Processed |
 | :--- | :--- | :--- | :--- |
@@ -35,7 +35,7 @@ This project solves this challenge by systematically digitizing 7 NCERT English 
 
 ---
 
-## 🛠️ Key Technical Contributions
+ Key Technical Contributions
 
 1. **Semantic Layout Preservation:** 
    * Formatted continuous prose narratives into custom LaTeX markup.
@@ -54,25 +54,3 @@ This project solves this challenge by systematically digitizing 7 NCERT English 
 
 ---
 
-## 📁 Repository Structure
-
-```text
-.
-├── README.md
-├── docs/
-│   └── 30_Day_Internship_Logbook.pdf
-├── data/
-│   ├── class_12/
-│   │   ├── flamingo/
-│   │   └── vistas/
-│   ├── class_11/
-│   │   └── hornbill/
-│   ├── class_09/
-│   │   ├── beehive/
-│   │   └── moments/
-│   └── class_08/
-│       ├── honeydew/
-│       └── it_so_happened/
-└── scripts/
-    ├── extract_latex.py
-    └── qdrant_ingest.py
