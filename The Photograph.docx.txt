@@ -1,0 +1,228 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{xcolor}
+\usepackage{microtype}
+
+% Define colors matching the original document
+\definecolor{magenta-text}{HTML}{E0115F}
+\definecolor{pink-bg}{HTML}{FCD7E5}
+
+\begin{document}
+
+\begin{flushleft}
+    % Poem Title
+    {\Huge\fontfamily{qzc}\selectfont\color{magenta-text}\textbf{A Photograph}}
+    
+    \vspace{0.5em}
+    \hfill {\Large\fontfamily{pzc}\selectfont Shirley Toulson}
+    
+    \vspace{1.5em}
+    \rule{\linewidth}{0.5pt}
+    \vspace{2em}
+
+    % Poem Stanzas
+    \noindent The cardboard shows me how it was\\
+    When the two girl cousins went paddling,\\
+    Each one holding one of my mother’s hands,\\
+    And she the big girl --- some twelve years or so.\\
+    All three stood still to smile through their hair\\
+    At the uncle with the camera. A sweet face,\\
+    My mother’s, that was before I was born.\\
+    And the sea, which appears to have changed less,\\
+    Washed their terribly transient feet.
+    
+    \vspace{1.5em}
+    
+    \noindent Some twenty --- thirty --- years later\\
+    She’d laugh at the snapshot. ``See Betty\\
+    And Dolly,'' she’d say, ``and look how they\\
+    Dressed us for the beach.'' The sea holiday\\
+    Was her past, mine is her laughter. Both wry\\
+    With the laboured ease of loss.
+    
+    \vspace{1.5em}
+    
+    \noindent Now she’s been dead nearly as many years\\
+    As that girl lived. And of this circumstance\\
+    There is nothing to say at all.\\
+    Its silence silences.
+
+    \vspace{3em}
+
+    % Context words section
+    \noindent Infer the meanings of the following words from the context.
+    
+    \vspace{1em}
+    
+    \noindent
+    \colorbox{pink-bg}{%
+        \begin{minipage}{\dimexpr\linewidth-2\fboxsep}
+            \vspace{0.5em}
+            \quad {\color{magenta-text}$\blacksquare$} \hfill \textbf{paddling} \hfill \textbf{transient} \hfill {\color{magenta-text}$\blacksquare$} \quad
+            \vspace{0.5em}
+        \end{minipage}%
+    }
+    
+    \vspace{1.5em}
+    
+    \noindent Now look up the dictionary to see if your inference is right.
+\end{flushleft}
+
+\vfill
+
+% Page Footer
+\begin{center}
+    \small 2024-25
+\end{center}
+
+\end{document}
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{xcolor}
+\usepackage{amssymb}
+\usepackage{microtype}
+
+% Define accent colors matching the document's design
+\definecolor{magenta-accent}{HTML}{E0115F}
+\definecolor{pink-bg}{HTML}{FCD7E5}
+
+\begin{document}
+
+% Page Header
+\noindent
+12 \hfill \textsc{Hornbill}
+
+\vspace{1.5em}
+
+\begin{flushleft}
+    % Main Section Heading
+    {\Large\color{black!80} Think it out \hspace{0.2em}\color{magenta-accent!60}$\blacksquare$}
+    
+    \vspace{1.5em}
+    
+    \begin{enumerate}
+        \item What does the word `cardboard' denote in the poem? Why has this word been used?
+        \item What has the camera captured?
+        \item What has not changed over the years? Does this suggest something to you?
+        \item The poet's mother laughed at the snapshot. What did this laugh indicate?
+        \item What is the meaning of the line ``Both wry with the laboured ease of loss.''
+        \item What does ``this circumstance'' refer to?
+        \item The three stanzas depict three different phases. What are they?
+    \end{enumerate}
+    
+    \vspace{2.5em}
+    
+    % Notes Divider Heading
+    \begin{center}
+        {\Large\color{magenta-accent} \rule[0.5ex]{2cm}{1pt} Notes \rule[0.5ex]{2cm}{1pt}}
+    \end{center}
+    
+    \vspace{1.5em}
+
+    % Pink Background Box Container
+    \noindent
+    \colorbox{pink-bg}{%
+        \begin{minipage}{\dimexpr\linewidth-2\fboxsep}
+            \vspace{0.8em}
+            \small
+            \noindent Poems are included to heighten students' sensitivity to literary writing and to appreciate rhythm and sound patterns in language. Follow these steps:
+            \begin{itemize}
+                \item Read the poem aloud once without the students looking at the poem. Ask them a few general questions.
+                \item Re-read the poem with the students looking at the poem. Ask a few more questions to check comprehension.
+                \item Ask students to read the poem silently and answer the questions given, first orally and then in writing.
+            \end{itemize}
+            \vspace{0.8em}
+        \end{minipage}%
+    }
+    
+    \vspace{1.5em}
+    
+    % Outer Bullet Points
+    \begin{itemize}
+        \item The poem `A Photograph' is placed after `The Portrait of a Lady' because of the thematic relation between the two.
+        \item The questions seek to examine factual and inferential comprehension, establish empathy and draw attention to the structure of the poem and choice of words.
+    \end{itemize}
+\end{flushleft}
+
+\end{document}
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{xcolor}
+\usepackage{amssymb}
+\usepackage{multicol}
+\usepackage{array}
+\usepackage{microtype}
+
+% --- Custom Textbook Design Palette ---
+\definecolor{magenta-text}{HTML}{E0115F}
+\definecolor{magenta-accent}{HTML}{E0115F}
+\definecolor{pink-bg}{HTML}{FCD7E5}
+\definecolor{gray-text}{HTML}{555555}
+
+\begin{document}
+
+% --- STANDARD PAGE HEADER ---
+\noindent
+\textsc{The Portrait of a Lady} \hfill 13 % Or \textsc{Hornbill}
+
+\vspace{1.5em}
+
+\begin{flushleft}
+    % --- CHAPTER TITLE FORMAT ---
+    {\Huge\fontfamily{qzc}\selectfont\color{magenta-text}\textbf{Chapter Title Here}}
+    \vspace{0.5em}
+    \hfill {\Large\fontfamily{pzc}\selectfont Author Name}
+    
+    \vspace{1.5em}
+    \rule{\linewidth}{0.5pt}
+    \vspace{1.5em}
+
+    % --- EXERCISE SECTION HEADING FORMAT ---
+    {\Large\color{black!80} Section Heading \hspace{0.2em}\color{magenta-accent!60}$\blacksquare$}
+    \vspace{1.5em}
+
+    % --- TEXT AND NUMBERED LISTS ---
+    \noindent Sample text goes here. Notice the formatted layout below:
+    \begin{enumerate}
+        \item First exercise or standard question text goes here.
+        \item Second exercise text goes here.
+    \end{enumerate}
+    
+    \vspace{2.5em}
+    
+    % --- NOTES DIVIDER HEADING ---
+    \begin{center}
+        {\Large\color{magenta-accent} \rule[0.5ex]{2cm}{1pt} Notes \rule[0.5ex]{2cm}{1pt}}
+    \end{center}
+    
+    \vspace{1.5em}
+
+    % --- HIGHLIGHTED TEACHER/STUDENT BOX ---
+    \noindent
+    \colorbox{pink-bg}{%
+        \begin{minipage}{\dimexpr\linewidth-2\fboxsep}
+            \vspace{0.8em}
+            \small
+            \noindent This is a standard highlighted text box container used for special instructions or notes sections.
+            \begin{itemize}
+                \item Itemized layout instruction point.
+                \item Second itemized instruction point.
+            \end{itemize}
+            \vspace{0.8em}
+        \end{minipage}%
+    }
+    
+\end{flushleft}
+
+\vfill
+
+% --- STANDARD PAGE FOOTER ---
+\begin{center}
+    \small 2024-25
+\end{center}
+
+\end{document}
+
