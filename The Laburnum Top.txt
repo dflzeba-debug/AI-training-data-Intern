@@ -1,0 +1,168 @@
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{xcolor}
+\usepackage{enumitem}
+
+\begin{document}
+
+\begin{flushleft}
+    {\fontfamily{pzc}\selectfont\Huge\color{magenta}The Laburnum Top}
+\end{flushleft}
+
+\begin{flushright}
+    {\fontfamily{pzc}\selectfont\LARGE Ted Hughes} \\
+    \noindent\rule{1.5in}{0.5pt}
+\end{flushright}
+
+\vspace{2em}
+
+\begin{verse}
+The Laburnum top is silent, quite still \\
+In the afternoon yellow September sunlight, \\
+A few leaves yellowing, all its seeds fallen. \\
+\end{verse}
+
+\begin{verse}
+Till the goldfinch comes, with a twitching chirrup \\
+A suddenness, a startlement, at a branch end. \\
+Then sleek as a lizard, and alert, and abrupt, \\
+She enters the thickness, and a machine starts up \\
+Of chitterings, and a tremor of wings, and trillings --- \\
+The whole tree trembles and thrills. \\
+It is the engine of her family. \\
+She stokes it full, then flirts out to a branch-end \\
+Showing her barred face identity mask \\
+\end{verse}
+
+\begin{verse}
+Then with eerie delicate whistle-chirrup whisperings \\
+She launches away, towards the infinite \\
+\end{verse}
+
+\begin{verse}
+And the laburnum subsides to empty.
+\end{verse}
+
+\vspace{3em}
+
+\noindent
+\colorbox{pink!40}{
+\begin{minipage}{\textwidth}
+    \vspace{0.5em}
+    \begin{description}[leftmargin=6.5em, style=nextline]
+        \item[\textbf{laburnum:}] a short tree with hanging branches, yellow flowers and poisonous seeds
+        \item[\textbf{goldfinch:}] a small singing bird with yellow feathers on its wings
+    \end{description}
+    \vspace{0.5em}
+\end{minipage}
+}
+
+\end{document}
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+
+% Header configuration matching page 32 of the textbook
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{32}
+\fancyhead[R]{\textsc{Hornbill}}
+\renewcommand{\headrulewidth}{0pt}
+
+% Configure section headings appearance
+\titleformat{\section}{\normalfont\Large\bfseries}{}{0pt}{}
+\titlespacing*{\section}{0pt}{1.5em}{1em}
+
+\begin{document}
+
+\section*{Find out}
+
+\begin{enumerate}[label=\arabic*., leftmargin=2em]
+    \item What laburnum is called in your language.
+    \item Which local bird is like the goldfinch.
+\end{enumerate}
+
+\section*{Think it out}
+
+\begin{enumerate}[label=\arabic*., leftmargin=2em]
+    \item What do you notice about the beginning and the ending of the poem?
+    \item To what is the bird's movement compared? What is the basis for the comparison?
+    \item Why is the image of the engine evoked by the poet?
+    \item What do you like most about the poem?
+    \item What does the phrase ``her barred face identity mask'' mean?
+\end{enumerate}
+
+\section*{Note down}
+
+\begin{enumerate}[label=\arabic*., leftmargin=2em]
+    \item the sound words
+    \item the movement words
+    \item the dominant colour in the poem.
+\end{enumerate}
+
+\section*{List the following}
+
+\begin{enumerate}[label=\arabic*., leftmargin=2em]
+    \item Words which describe `sleek', `alert' and `abrupt'.
+    \item Words with the sound `ch' as in `chart' and `tr' as in `trembles' in the poem.
+    \item Other sounds that occur frequently in the poem.
+\end{enumerate}
+
+\section*{Thinking about language}
+
+\noindent Look for some other poem on a bird or a tree in English or any other language.
+
+\section*{Try this out}
+
+\noindent Write four lines in verse form on any tree that you see around you.
+
+\end{document}
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage{xcolor}
+
+% Header configuration matching page 33 of the textbook
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\textsc{The Laburnum Top}}
+\fancyhead[R]{33}
+\renewcommand{\headrulewidth}{0pt}
+
+\begin{document}
+
+\begin{center}
+    {\color{magenta}\Large\textbf{--- Notes ---}}
+\end{center}
+\vspace{1em}
+
+\noindent This poem has been placed after a text which has references to names of plants for thematic sequencing.
+
+\vspace{1.5em}
+\noindent \textbf{\large Understanding the poem}
+
+\begin{itemize}[leftmargin=1.5em, label=\textbullet]
+    \item Glossing of `laburnum' and `goldfinch'
+    \item Factual understanding
+    \item Movement of thought and structuring (poetic sensitivity)
+    \item Focus on figures of speech and imagery used (poetic sensitivity)
+    \item Attention to sounds, lexical collocations (poetic sensitivity)
+\end{itemize}
+
+\vspace{1.5em}
+\noindent \textbf{\large Thinking about language}
+
+\begin{itemize}[leftmargin=1.5em, label=\textbullet]
+    \item Finding equivalents in other languages (multilingualism)
+    \item Relating to thematically similar poems in other languages (multilingualism)
+    \item Attempt at creativity
+\end{itemize}
+
+\end{document}
+
