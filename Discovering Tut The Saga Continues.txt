@@ -1,0 +1,404 @@
+% --- THIS IS ALL IN ONE FILE ---
+
+% 1. Here is your text for the list
+\begin{itemize}
+    \item[$\diamond$] forensic reconstruction
+    \item[$\diamond$] scudded across
+\end{itemize}
+
+% 2. Here is where the image and the paragraph sit side-by-side
+\begin{minipage}[t]{0.4\linewidth}
+    \includegraphics[width=\linewidth]{tut_drawing.png} % <-- This loads the image file
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.55\linewidth}
+    \textit{He was just a teenager when he died...} % <-- This is your plain text
+\end{minipage}
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{left=2.5cm, right=3.5cm, top=2.5cm, bottom=2.5cm} % Extra right margin for formatting elements
+\usepackage{fancyhdr}
+
+% Header Setup
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small\scshape Discovering Tut: the Saga Continues}
+\fancyhead[R]{\small 23}
+\renewcommand{\headrulewidth}{0.5pt}
+
+\begin{document}
+
+\noindent
+An angry wind stirred up ghostly dust devils as King Tut was taken from his resting place in the ancient Egyptian cemetery known as the Valley of the Kings*. Dark-bellied clouds had \textbf{scudded across} the desert sky all day and now were veiling the stars in \textbf{casket grey}. It was 6 p.m. on 5 January 2005. The world’s most famous mummy glided head first into a CT scanner brought here to probe the lingering medical mysteries of this little-understood young ruler who died more than 3,300 years ago.
+
+All afternoon the usual line of tourists from around the world had descended into the cramped, rock-cut tomb some 26 feet underground to pay their respects. They gazed at the murals on the walls of the burial chamber and peered at Tut’s gilded face, the most striking feature of his mummy-shaped outer coffin lid. Some visitors read from guidebooks in a whisper. Others stood silently, perhaps pondering Tut’s untimely death in his late teens, or wondering with a shiver if the pharaoh’s curse --- death or misfortune falling upon those who disturbed him --- was really true.
+
+``The mummy is in very bad condition because of what Carter did in the 1920s,'' said Zahi Hawass, Secretary General of Egypt’s Supreme Council of Antiquities, as he leaned over the body for a long first look. Carter --- Howard Carter, that is --- was the British archaeologist who in 1922 discovered Tut’s tomb after years of futile searching. Its contents, though hastily ransacked in antiquity, were surprisingly complete. They remain the richest royal collection ever found and have become part of the pharaoh’s legend. Stunning artefacts in gold, their eternal brilliance meant to guarantee \textbf{resurrection}, caused a sensation at the time of the discovery --- and still get the most attention. But Tut was also buried with everyday things he’d want in the afterlife: board games, a bronze razor, linen undergarments, cases of food and wine.
+
+After months of carefully recording the pharaoh’s \textbf{funerary treasures}, Carter began investigating his three nested coffins. Opening the first, he found a shroud adorned with garlands of willow and olive leaves, wild celery, lotus petals, and cornflowers, the faded evidence of a burial in March or April. When he finally reached the mummy, though, he ran into trouble. The ritual resins had hardened, cementing Tut to the bottom of his solid gold coffin. ``No amount of legitimate force could move them,'' Carter wrote later. ``What was to be done?''
+
+The sun can beat down like a hammer this far south in Egypt, and Carter tried to use it to loosen the resins. For several hours
+
+\vspace{1.5cm}
+\noindent
+\rule{3cm}{0.4pt} \\
+\small{* See map on next page}
+
+\end{document}
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{left=2.5cm, right=3.5cm, top=2.5cm, bottom=2.5cm}
+\usepackage{fancyhdr}
+
+% Header Setup
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small\scshape Discovering Tut: the Saga Continues}
+\fancyhead[R]{\small 25}
+\renewcommand{\headrulewidth}{0.5pt}
+
+\begin{document}
+
+\noindent
+he set the mummy outside in blazing sunshine that heated it to 149 degrees Fahrenheit. Nothing budged. He reported with scientific detachment that ``the consolidated material had to be chiselled away from beneath the limbs and trunk before it was possible to raise the king's remains.''
+
+In his defence, Carter really had little choice. If he hadn't cut the mummy free, thieves most certainly would have \textbf{circumvented} the guards and ripped it apart to remove the gold. In Tut's time the royals were fabulously wealthy, and they thought --- or hoped --- they could take their riches with them. For his journey to the great beyond, King Tut was lavished with glittering goods: precious collars, inlaid necklaces and bracelets, rings, amulets, a ceremonial apron, sandals, sheaths for his fingers and toes, and the now iconic inner coffin and mask --- all of pure gold. To separate Tut from his adornments, Carter's men removed the mummy's head and severed nearly every major joint. Once they had finished, they reassembled the remains on a layer of sand in a wooden box with padding that concealed the damage, the bed where Tut now rests.
+
+Archaeology has changed substantially in the intervening decades, focusing less on treasure and more on the fascinating details of life and intriguing mysteries of death. It also uses more sophisticated tools, including medical technology. In 1968, more than 40 years after Carter's discovery, an anatomy professor X-rayed the mummy and revealed a startling fact: beneath the resin that cakes his chest, his breast-bone and front ribs are missing.
+
+Today diagnostic imaging can be done with \textbf{computed tomography}, or CT, by which hundreds of X-rays in cross section are put together like slices of bread to create a three-dimensional virtual body. What more would a CT scan reveal of Tut than the X-ray? And could it answer two of the biggest questions still lingering about him --- how did he die, and how old was he at the time of his death?
+
+King Tut's demise was a big event, even by royal standards. He was the last of his family's line, and his funeral was the death rattle of a dynasty. But the particulars of his passing away and its aftermath are unclear.
+
+Amenhotep III --- Tut's father or grandfather --- was a powerful pharaoh who ruled for almost four decades at the height of the eighteenth dynasty's golden age. His son Amenhotep IV succeeded him and initiated one of the strangest periods in the history of
+
+\end{document}
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm}
+\usepackage{fancyhdr}
+
+% Header Setup
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small 26}
+\fancyhead[R]{\small\scshape Hornbill}
+\renewcommand{\headrulewidth}{0.5pt}
+
+\begin{document}
+
+\noindent
+ancient Egypt. The new pharaoh promoted the worship of the Aten, the sun disk, changed his name to Akhenaten, or `servant of the Aten,' and moved the religious capital from the old city of Thebes to the new city of Akhetaten, known now as Amarna. He further shocked the country by attacking Amun, a major god, smashing his images and closing his temples. ``It must have been a horrific time,'' said Ray Johnson, director of the University of Chicago's research centre in Luxor, the site of ancient Thebes. ``The family that had ruled for centuries was coming to an end, and then Akhenaten went a little wacky.''
+
+After Akhenaten's death, a mysterious ruler named Smenkhkare appeared briefly and exited with hardly a trace. And then a very young Tutankhaten took the throne --- King Tut as he's widely known today. The boy king soon changed his name to Tutankhamun, `living image of Amun,' and oversaw a restoration of the old ways. He reigned for about nine years --- and then died unexpectedly.
+
+Regardless of his fame and the speculations about his fate, Tut is one mummy among many in Egypt. How many? No one knows. The Egyptian Mummy Project, which began an inventory in late 2003, has recorded almost 600 so far and is still counting. The next phase: scanning the mummies with a portable CT machine donated by the National Geographic Society and Siemens, its manufacturer. King Tut is one of the first mummies to be scanned --- in death, as in life, moving regally ahead of his countrymen.
+
+A CT machine scanned the mummy head to toe, creating 1,700 digital X-ray images in cross section. Tut's head, scanned in 0.62 millimetre slices to register its intricate structures, takes on \textbf{eerie detail} in the resulting image. With Tut's entire body similarly recorded, a team of specialists in radiology, forensics, and anatomy began to probe the secrets that the winged goddesses of a gilded burial shrine protected for so long.
+
+The night of the scan, workmen carried Tut from the tomb in his box. Like pallbearers they climbed a ramp and a flight of stairs into the swirling sand outside, then rose on a hydraulic lift into the trailer that held the scanner. Twenty minutes later two men emerged, sprinted for an office nearby, and returnedNormally I can help with things like this, but I don't seem to have access to that content. You can try again or ask me for something else.
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{left=2.5cm, right=3.5cm, top=2.5cm, bottom=2.5cm}
+\usepackage{fancyhdr}
+
+% Header Setup
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small\scshape Discovering Tut: the Saga Continues}
+\fancyhead[R]{\small 27}
+\renewcommand{\headrulewidth}{0.5pt}
+
+\begin{document}
+
+Eventually the substitute fans worked well enough to finish the procedure. After checking that no data had been lost, the technicians turned Tut over to the workmen, who carried him back to his tomb. Less than three hours after he was removed from his coffin, the pharaoh again rested in peace where the funerary priests had laid him so long ago.
+
+Back in the trailer a technician pulled up astonishing images of Tut on a computer screen. A grey head took shape from a scattering of pixels, and the technician spun and tilted it in every direction. Neck vertebrae appeared as clearly as in an anatomy class. Other images revealed a hand, several views of the rib cage, and a transection of the skull. But for now the pressure was off. Sitting back in his chair, Zahi Hawass smiled, visibly relieved that nothing had gone seriously wrong. ``I didn't sleep last night, not for a second,'' he said. ``I was so worried. But now I think I will go and sleep.''
+
+\end{document}
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{fancyhdr}
+
+% Header configuration matching the textbook page layout
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{26}
+\fancyhead[R]{HORNBILL}
+\renewcommand{\headrulewidth}{0pt}
+
+\begin{document}
+
+ancient Egypt. The new pharaoh promoted the worship of the Aten, the sun disk, changed his name to Akhenaten, or `servant of the Aten,' and moved the religious capital from the old city of Thebes to the new city of Akhetaten, known now as Amarna. He further shocked the country by attacking Amun, a major god, smashing his images and closing his temples. ``It must have been a horrific time,'' said Ray Johnson, director of the University of Chicago’s research centre in Luxor, the site of ancient Thebes. ``The family that had ruled for centuries was coming to an end, and then Akhenaten went a little wacky.''
+
+\raggedright
+After Akhenaten’s death, a mysterious ruler named Smenkhkare appeared briefly and exited with hardly a trace. And then a very young Tutankhaten took the throne --- King Tut as he’s widely known today. The boy king soon changed his name to Tutankhamun, `living image of Amun,' and oversaw a restoration of the old ways. He reigned for about nine years --- and then died unexpectedly.
+
+Regardless of his fame and the speculations about his fate, Tut is one mummy among many in Egypt. How many? No one knows. The Egyptian Mummy Project, which began an inventory in late 2003, has recorded almost 600 so far and is still counting. The next phase: scanning the mummies with a portable CT machine donated by the National Geographic Society and Siemens, its manufacturer. King Tut is one of the first mummies to be scanned --- in death, as in life, moving regally ahead of his countrymen.
+
+A CT machine scanned the mummy head to toe, creating 1,700 digital X-ray images in cross section. Tut’s head, scanned in 0.62 millimetre slices to register its intricate structures, takes on \textbf{eerie detail} in the resulting image. With Tut’s entire body similarly recorded, a team of specialists in radiology, forensics, and anatomy began to probe the secrets that the winged goddesses of a gilded burial shrine protected for so long.
+
+The night of the scan, workmen carried Tut from the tomb in his box. Like pallbearers they climbed a ramp and a flight of stairs into the swirling sand outside, then rose on a hydraulic lift into the trailer that held the scanner. Twenty minutes later two men emerged, sprinted for an office nearby, and returned with a pair of white plastic fans. The million-dollar scanner had quit because of sand in a cooler fan. ``Curse of the pharaoh,'' joked a guard nervously.
+
+\end{document}
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{fancyhdr}
+
+% Header configuration matching page 27 of the textbook
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\textsc{Discovering Tut: the Saga Continues}}
+\fancyhead[R]{27}
+\renewcommand{\headrulewidth}{0pt}
+
+\begin{document}
+
+Eventually the substitute fans worked well enough to finish the procedure. After checking that no data had been lost, the technicians turned Tut over to the workmen, who carried him back to his tomb. Less than three hours after he was removed from his coffin, the pharaoh again rested in peace where the funerary priests had laid him so long ago.
+
+Back in the trailer a technician pulled up astonishing images of Tut on a computer screen. A grey head took shape from a scattering of pixels, and the technician spun and tilted it in every direction. Neck vertebrae appeared as clearly as in an anatomy class. Other images revealed a hand, several views of the rib cage, and a transection of the skull. But for now the pressure was off. Sitting back in his chair, Zahi Hawass smiled, visibly relieved that nothing had gone seriously wrong. ``I didn't sleep last night, not for a second,'' he said. ``I was so worried. But now I think I will go and sleep.''
+
+\end{document}
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage[margin=1in]{geometry}
+\usepackage{caption}
+
+\begin{document}
+
+\begin{figure}[htbp]
+    \centering
+    % Replace 'mural_king_tut.png' with your local image file name
+    \includegraphics[width=0.6\textwidth]{mural_king_tut.png}
+    \caption*{\textit{Mural in King Tut's tomb showing King Tut with Osiris, the god of the afterlife}}
+\end{figure}
+
+\end{document}
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{fancyhdr}
+
+% Header configuration matching page 28 of the textbook
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{28}
+\fancyhead[R]{\textsc{Hornbill}}
+\renewcommand{\headrulewidth}{0pt}
+
+\begin{document}
+
+By the time we left the trailer, descending metal stairs to the sandy ground, the wind had stopped. The winter air lay cold and still, like death itself, in this valley of the departed. Just above the entrance to Tut's tomb stood Orion --- the constellation that the ancient Egyptians knew as the soul of Osiris, the god of the afterlife --- watching over the boy king.
+
+\vspace{1.5em}
+\begin{flushright}
+(\textbf{\textit{Source:}} \textit{National Geographic}, Vol 207, No. 6)
+\end{flushright}
+
+\noindent\rule{\textwidth}{0.4pt}
+
+\end{document}
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{xcolor}
+
+% Configure section headings appearance
+\titleformat{\section}{\normalfont\Large\bfseries\color{black}}{}{0pt}{}
+\titlespacing*{\section}{0pt}{1.5em}{1em}
+
+\begin{document}
+
+\section*{Understanding the text}
+
+\begin{enumerate}[label=\arabic*., leftmargin=*]
+    \item Give reasons for the following.
+    \begin{enumerate}[label=(\roman*), leftmargin=2em]
+        \item King Tut's body has been subjected to repeated scrutiny.
+        \item Howard Carter's investigation was resented.
+        \item Carter had to chisel away the solidified resins to raise the king's remains.
+        \item Tut's body was buried along with gilded treasures.
+        \item The boy king changed his name from Tutankhaten to Tutankhamun.
+    \end{enumerate}
+    
+    \item 
+    \begin{enumerate}[label=(\roman*), leftmargin=2em]
+        \item List the deeds that led Ray Johnson to describe Akhenaten as ``wacky''.
+        \item What were the results of the CT scan?
+        \item List the advances in technology that have improved forensic analysis.
+        \item Explain the statement, ``King Tut is one of the first mummies to be scanned --- in death, as in life...''
+    \end{enumerate}
+\end{enumerate}
+
+\section*{Talking about the text}
+
+\noindent Discuss the following in groups of two pairs, each pair in a group taking opposite points of view.
+
+\begin{enumerate}[label=\arabic*., leftmargin=*]
+    \item Scientific intervention is necessary to unearth buried mysteries.
+    \item Advanced technology gives us conclusive evidence of past events.
+    \item Traditions, rituals and funerary practices must be respected.
+    \item Knowledge about the past is useful to complete our knowledge of the world we live in.
+\end{enumerate}
+
+\end{document}
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{multicol}
+
+% Header configuration matching page 29 of the textbook
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\textsc{Discovering Tut: the Saga Continues}}
+\fancyhead[R]{29}
+\renewcommand{\headrulewidth}{0pt}
+
+% Configure section headings appearance
+\titleformat{\section}{\normalfont\Large\bfseries}{}{0pt}{}
+\titlespacing*{\section}{0pt}{1.5em}{1em}
+
+\begin{document}
+
+\section*{Thinking about language}
+
+\begin{enumerate}[label=\arabic*., leftmargin=*]
+    \item Read the following piece of information from \textit{The Encyclopedia of Language} by David Crystal.
+    
+    \begin{quote}
+    Egyptian is now extinct: its history dates from before the third millennium B.C., preserved in many hieroglyphic inscriptions and papyrus manuscripts. Around the second century A.D., it developed into a language known as Coptic. Coptic may still have been used as late as the early nineteenth century and is still used as a religious language by Monophysite Christians in Egypt.
+    \end{quote}
+
+    \item What do you think are the reasons for the extinction of languages?
+    \item Do you think it is important to preserve languages?
+    \item In what ways do you think we could help prevent the extinction of languages and dialects?
+\end{enumerate}
+
+\section*{Working with words}
+
+\begin{enumerate}[label=\arabic*., leftmargin=*]
+    \item Given below are some interesting combinations of words. Explain why they have been used together.
+    
+    \begin{multicols}{2}
+    \begin{enumerate}[label=(\roman*)]
+        \item ghostly dust devils
+        \item desert sky
+        \item stunning artefacts
+        \item funerary treasures
+        \item scientific detachment
+        \item dark-bellied clouds
+        \item casket grey
+        \item eternal brilliance
+        \item ritual resins
+        \item virtual body
+    \end{enumerate}
+    \end{multicols}
+
+    \item Here are some commonly used medical terms. Find out their meanings.
+    
+    \vspace{0.5em}
+    \begin{center}
+    \begin{tabular}{|lll|}
+    \hline
+    CT scan & MRI & tomography \\
+    autopsy & dialysis & ECG \\
+    post mortem & angiography & biopsy \\
+    \hline
+    \end{tabular}
+    \end{center}
+\end{enumerate}
+
+\section*{Things to do}
+
+\begin{enumerate}[label=\arabic*., leftmargin=*]
+    \item The constellation Orion is associated with the legend of Osiris, the god of the afterlife.
+\end{enumerate}
+
+\end{document}
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage{xcolor}
+
+% Header configuration matching page 30 of the textbook
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{30}
+\fancyhead[R]{\textsc{Hornbill}}
+\renewcommand{\headrulewidth}{0pt}
+
+\begin{document}
+
+\begin{enumerate}[label={}, leftmargin=2em]
+    \item[] Find out the astronomical descriptions and legends associated with the following.
+    \begin{enumerate}[label=(\roman*), leftmargin=2em]
+        \item Ursa Major (Saptarishi mandala)
+        \item Polaris (Dhruva tara)
+        \item Pegasus (Winged horse)
+        \item Sirius (Dog star)
+        \item Gemini (Mithuna)
+    \end{enumerate}
+\end{enumerate}
+
+\begin{enumerate}[label=\arabic*., start=2, leftmargin=2em]
+    \item Some of the leaves and flowers mentioned in the passage for adorning the dead are willow, olive, celery, lotus, cornflower. Which of these are common in our country?
+    \item Name some leaves and flowers that are used as adornments in our country.
+\end{enumerate}
+
+\vspace{2em}
+\begin{center}
+    {\color{magenta}\Large\textbf{--- Notes ---}}
+\end{center}
+\vspace{1em}
+
+\noindent \textbf{\large Understanding the text}
+\nopagebreak
+
+\vspace{0.5em}
+\noindent Factual comprehension: giving reasons, listing
+
+\vspace{1.5em}
+\noindent \textbf{\large Talking about the text}
+\nopagebreak
+
+\vspace{0.5em}
+\noindent Debate on issues raised in the text related to rediscovering history with the help of technology; respect for traditions (reflection on issues)
+
+\vspace{1.5em}
+\noindent \textbf{\large Thinking about language}
+\nopagebreak
+
+\vspace{0.5em}
+\noindent Extinction of language and language preservation
+
+\vspace{1.5em}
+\noindent \textbf{\large Working with words}
+\nopagebreak
+
+\vspace{0.5em}
+\noindent Understanding adjectival collocations; common medical terms
+
+\vspace{1.5em}
+\noindent \textbf{\large Things to do}
+\nopagebreak
+
+\begin{itemize}[leftmargin=1.5em]
+    \item Relating astronomical facts and legends (across the curriculum)
+    \item Finding out botanical correlates
+\end{itemize}
+
+\end{document}
+
