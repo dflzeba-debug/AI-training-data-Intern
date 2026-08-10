@@ -1,0 +1,546 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{margin=1in}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{microtype}
+
+\begin{document}
+
+\begin{center}
+    {\Huge \bfseries \itshape \color{magenta} 5. Letter-writing}
+\end{center}
+
+\vspace{1.5em}
+
+\noindent \textsc{Letter-writing} is an important channel of communication between people who are geographically distant from one another. In earlier times when the telephone and e-mail were not available, the only means of communication between people was through letters.
+
+Letter-writing is a skill that has to be developed. In general there are two types of letters: formal, that are written to convey official business and information and informal, which are personal letters to communicate with friends and family. Formal letters are sent out when we need to write to various public bodies or agencies for our requirements in civic life. For example, we might have to ask for a certificate or to inform a change in our address. A letter is usually one in a series of exchanges between two people or parties.
+
+\vspace{1.5em}
+
+\noindent {\large \bfseries Formal Letters}
+
+\vspace{0.8em}
+
+\noindent Let us now examine some of the steps in writing formal letters.
+
+\begin{enumerate}[label=\arabic*., leftmargin=*]
+    \item \begin{enumerate}[label=(\i), leftmargin=1.5em, itemsep=0.1em]
+        \item \textit{Introducing oneself if it is the first time you are writing}
+        \item \textit{Referring to an earlier letter if you are responding to it.}
+    \end{enumerate}
+    \item \textit{Stating the purpose of the letter}
+    \item \begin{enumerate}[label=(\i), leftmargin=1.5em, itemsep=0.1em]
+        \item \textit{Stating action/information required from the addressee}
+        \item \textit{Explaining action taken/supplying information}
+    \end{enumerate}
+    \item \begin{enumerate}[label=(\i), leftmargin=1.5em, itemsep=0.1em]
+        \item \textit{Urging action to be taken}
+        \item \textit{Offering assistance in future}
+    \end{enumerate}
+\end{enumerate}
+
+\vspace{1em}
+
+\noindent\hspace*{1.5em} This is the basic structure of a letter. It will have to be modified according to the purpose for which it is written and the person to whom it is addressed.
+
+\vfill
+\begin{center}
+    \footnotesize 2024-25
+\end{center}
+
+\end{document}
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{margin=1in}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage{microtype}
+
+% Header configuration
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{94}
+\fancyhead[R]{\textsc{Hornbill}}
+\renewcommand{\headrulewidth}{0pt}
+
+\begin{document}
+
+\noindent When you write a letter you should keep in mind the following points.
+
+\begin{enumerate}[label=\arabic*., leftmargin=*, itemsep=0.1em]
+    \item \textit{Purpose}
+    \item \textit{Person to whom it is addressed}
+    \item \textit{Tone you should adopt}
+    \item \textit{Completeness of the message}
+    \item \textit{Action required}
+    \item \textit{Conciseness of expression}
+\end{enumerate}
+
+\vspace{1em}
+
+\noindent We have so far considered the content of letters. A letter also has a typical format.
+
+\begin{enumerate}[label=\arabic*., leftmargin=*]
+    \item \textit{Name and address of sender} \\
+    Companies have printed letterheads with the name of the company printed on them. A letterhead may also carry the name and designation of persons in responsible positions.
+    
+    \item \textit{Name and address of addressee}
+    
+    \item \textit{Date}
+    
+    \item \textit{Mode of address or salutation} \\
+    Salutation is the mode of addressing a person. We may have the following forms.
+    \begin{enumerate}[label=(\i), leftmargin=1.5em, itemsep=0.3em]
+        \item Dear Sir/Madam (when we are writing to a total stranger whom we do not know at all).
+        \item Dear Mr/Ms/Dr/Professor + Surname as in: Dear Dr Sinha, (when it is a formal relationship with the addressee and the writer does not know him or her personally).
+        \item Dear Sujata (when the writer knows the addressee personally and the two share a semi-formal relationship).
+    \end{enumerate}
+
+    \item \textit{Reference to previous correspondence, if any.} \\
+    Most official letters carry a subject line just above the salutation. This is for quick reference to the subject.
+    
+    \item \textit{Content of letter} \\
+    The content of the letter begins on the next line and is arranged in two or three paragraphs.
+    
+    \item \textit{Complimentary close and signature} \\
+    Letters usually end politely with the following phrases: Thank you, With regards, With best wishes, Hope to see
+\end{enumerate}
+
+\end{document}
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{margin=1in}
+\usepackage{fancyhdr}
+\usepackage{tcolorbox}
+\usepackage{microtype}
+
+% Header configuration
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\textsc{Letter-writing}}
+\fancyhead[R]{95}
+\renewcommand{\headrulewidth}{0pt}
+
+\begin{document}
+
+\noindent you soon, Hope to receive an early reply etc. The complimentary close is followed by `Yours sincerely/ Yours truly', and the writer's signature in the next line.
+
+\vspace{1.5em}
+
+\noindent Given below is an example of the format of a formal letter.
+
+\vspace{1em}
+
+\begin{tcolorbox}[colback=pink!20, colframe=white, arc=0mm, top=1.5em, bottom=1.5em, left=2em, right=2em]
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{0.4em}
+    
+    Ritu Patel \\
+    Manager, Customer Services \\
+    Vijayanagar Gas Company \\
+    121, Ameerpet \\
+    Hyderabad 500 016
+    
+    \vspace{0.8em}
+    122 November 2005
+    
+    \vspace{0.8em}
+    Mr Shagun Thomas \\
+    801, Vijay Apartments \\
+    Begumpet \\
+    Hyderabad 500 016
+    
+    \vspace{0.8em}
+    Sub: Your application No. F323 for a new gas connection
+    
+    \vspace{0.8em}
+    Dear Mr Thomas,
+    
+    \vspace{0.5em}
+    \hrulefill \\
+    \hrulefill \\
+    \hrulefill \\
+    \hrulefill \\
+    \hrulefill
+    
+    \vspace{1.5em}
+    With regards, \\
+    Yours sincerely, \\
+    Ritu Patel
+\end{tcolorbox}
+
+\vspace{1.5em}
+
+\noindent Nowadays all the parts of a letter are aligned on the left. This style is called the Full-Block style.
+
+\begin{itemize}
+    \item The date and signature are very important in letters.
+    \item We do not use commas after every line in the address.
+\end{itemize}
+
+\end{document}
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{margin=1in}
+\usepackage{fancyhdr}
+\usepackage{tcolorbox}
+\usepackage{microtype}
+
+% Header configuration
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{96}
+\fancyhead[R]{\textsc{Hornbill}}
+\renewcommand{\headrulewidth}{0pt}
+
+\begin{document}
+
+\begin{itemize}[leftmargin=*]
+    \item Do not begin your letters with hackneyed expressions like, `With reference to your letter dated 10 January'. Instead, use personalised variations like, `I was glad to receive your letter of 10 January...' or `We were happy to note from your letter that the goods have reached you safely...'
+    \item Never end your letters with hanging participles like `Thanking you' or `Awaiting your reply'. Instead write, `Thank you' or `We/I await/look forward to your reply'.
+\end{itemize}
+
+\vspace{1em}
+
+\noindent {\large \bfseries Informal Letters}
+
+\vspace{0.5em}
+
+\noindent \textit{Informal letters include personal letters. If it is a personal letter the format is flexible. We might just write the name of our city on top, followed by the date.}
+
+\vspace{1.5em}
+
+\begin{tcolorbox}[colback=pink!20, colframe=white, arc=0mm, top=1.5em, bottom=1.5em, left=2em, right=2em]
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{0.4em}
+    
+    Hyderabad \\
+    12 November 2005
+    
+    \vspace{1em}
+    Dear Sujata,
+    
+    \vspace{0.5em}
+    \hrulefill \\
+    \hrulefill \\
+    \hrulefill \\
+    \hrulefill \\
+    \hrulefill \\
+    \hrulefill
+    
+    \vspace{1.5em}
+    Bye,
+    
+    \vspace{0.5em}
+    Yours affectionately/With love/ \\
+    All the best/Take care etc.
+    
+    \vspace{1.5em}
+    (Signature)
+\end{tcolorbox}
+
+\end{document}
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{margin=1in}
+\usepackage{fancyhdr}
+\usepackage{tcolorbox}
+\usepackage{enumitem}
+\usepackage{microtype}
+
+% Header configuration
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\textsc{Letter-writing}}
+\fancyhead[R]{97}
+\renewcommand{\headrulewidth}{0pt}
+
+\begin{document}
+
+\noindent The flexible format of the informal letter may also be used to seek information from concerned authorities. Given below is an example.
+
+\vspace{1.5em}
+
+\begin{tcolorbox}[colback=pink!20, colframe=white, arc=0mm, top=1.5em, bottom=1.5em, left=2em, right=2em]
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{0.5em}
+    
+    \begin{flushright}
+        179 NCERT Campus \\
+        Sri Aurobindo Marg \\
+        New Delhi 110 016 \\
+        \vspace{0.5em}
+        9 September 2005
+    \end{flushright}
+    
+    \vspace{0.5em}
+    The Manager \\
+    Himachal Tourism \\
+    Mall Road \\
+    Shimla
+    
+    \vspace{0.8em}
+    Dear Sir,
+    
+    \vspace{0.5em}
+    We are planning to spend our vacation in Dharamsala, Himachal Pradesh during Dussehra and would like some information regarding availability of lodging in the area.
+    
+    \noindent\hspace*{1.5em} We would like to have information about inexpensive hotels in and around Dharamsala. Could you please send me a city map and brochures about the activities and sights in the city?
+    
+    \noindent\hspace*{1.5em} Thank you.
+    
+    \vspace{1.5em}
+    \begin{flushright}
+        Yours faithfully, \\
+        \vspace{1.5em}
+        (Suryadhan Kumar)
+    \end{flushright}
+\end{tcolorbox}
+
+\vspace{1.5em}
+
+\noindent Given below is the format of the informal letter.
+
+\begin{itemize}[label=\textbullet, leftmargin=*]
+    \item \textit{Your address (but not your name) usually goes in the top right-hand corner, but may go on the left too.}
+    \item \textit{The name and/or job title (if you know them) and the address of the person you are writing to goes on the left.}
+\end{itemize}
+
+\end{document}
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{margin=1in}
+\usepackage{fancyhdr}
+\usepackage{tcolorbox}
+\usepackage{enumitem}
+\usepackage{microtype}
+
+% Header configuration
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{98}
+\fancyhead[R]{\textsc{Hornbill}}
+\renewcommand{\headrulewidth}{0pt}
+
+\begin{document}
+
+\begin{itemize}[label=\textbullet, leftmargin=*]
+    \item \textit{To address someone whose name you do not know you can write: Dear Sir, Dear Madam, Dear Sirs, Dear Sir/Madam.}
+    \item \textit{To address someone by name, use their title and surname e.g. Dear Dr Balakrishnan.}
+    \item \textit{To end a letter, use `Yours sincerely', if you have addressed the person by name; `Yours faithfully', if you have begun the letter with `Dear Sir' or `Madam', etc.}
+\end{itemize}
+
+\vspace{1.5em}
+
+\noindent {\large \bfseries Job Application}
+
+\vspace{0.8em}
+
+\noindent At some point of time each one of us will have to apply for a job. Job applications are usually written in response to advertisements.
+
+\noindent Let us take this sample advertisement from a daily newspaper, \textit{The Hindu} dated 15 November 2005.
+
+\vspace{1.5em}
+
+\begin{center}
+\begin{tcolorbox}[colback=pink!20, colframe=white, arc=0mm, top=1.5em, bottom=1.5em, left=2em, right=2em, width=0.7\textwidth]
+    \centering
+    \setlength{\parskip}{0.6em}
+    
+    Come\dots join the ADVENTURE
+    
+    Customer Support Executives \\
+    Graduate/Diploma holders \\
+    with/without experience \\
+    possessing good Customer \\
+    Service skills. Excellent spoken \\
+    and written communication \\
+    skills in English is a must.
+    
+    \textit{Send in your applications with \\
+    your resume and passport \\
+    size photograph to:}
+    
+    WONDERLAND \\
+    COMMUNICATIONS, \\
+    SOUTH STREET, SALEM, \\
+    TAMIL NADU
+\end{tcolorbox}
+\end{center}
+
+\vspace{1.5em}
+
+\noindent Let us assume that you have a degree or a diploma and are applying for the job. We need to prepare a resume, which actually means a summary of particulars relating to your background, academic qualifications and experience, if any. Other terms used for `resume' are `curriculum vitae' and `biodata'.
+
+\end{document}
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{margin=1in}
+\usepackage{fancyhdr}
+\usepackage{tcolorbox}
+\usepackage{array}
+\usepackage{microtype}
+
+% Header configuration
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\textsc{Letter-writing}}
+\fancyhead[R]{99}
+\renewcommand{\headrulewidth}{0pt}
+
+\begin{document}
+
+\noindent The general format of a resume or curriculum vitae is shown below.
+
+\vspace{1.5em}
+
+\begin{tcolorbox}[colback=pink!20, colframe=white, arc=0mm, top=1.5em, bottom=1.5em, left=2em, right=2em]
+    \setlength{\parindent}{0pt}
+    
+    \begin{center}
+        {\large \textbf{\textsc{Curriculum Vitae}}}
+    \end{center}
+    
+    \vspace{1.5em}
+    
+    \begin{tabular}{@{}llp{6.5cm}}
+        Name & : & \\
+        Address & : & \\
+        Telephone Number & : & \\
+        E-mail ID & : & \\
+        Date of birth & : & \\
+        Academic Qualifications & : & 
+    \end{tabular}
+    
+    \vspace{1em}
+    
+    \begin{table}[h!]
+    \centering
+    \small
+    \begin{tabular}{|p{2.6cm}|p{2cm}|p{1.6cm}|c|l|}
+        \hline
+        Examination & Board/ University & Subjects & Year & Division \\ [0.8ex]
+        \hline
+        S.S.C & & & & \\ [0.8ex]
+        \hline
+        Diploma in... & & & & \\ [0.8ex]
+        \hline
+        Degree in... & & & & \\ [0.8ex]
+        \hline
+    \end{tabular}
+    \end{table}
+    
+    \vspace{0.5em}
+    
+    \begin{tabular}{@{}llp{6.5cm}}
+        Experience & : & (Begin from present employment) \\ [1.2ex]
+        Skills & : & \\ [1.2ex]
+        Languages known & : & \\ [1.2ex]
+        Hobbies and Interests & : & \\ [1.2ex]
+        Achievements & : & \\ [1.2ex]
+        References & : & (names of people in positions like your school Principal who can certify your character and conduct)
+    \end{tabular}
+\end{tcolorbox}
+
+\end{document}
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{margin=1in}
+\usepackage{fancyhdr}
+\usepackage{tcolorbox}
+\usepackage{enumitem}
+\usepackage{microtype}
+
+% Header configuration
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{100}
+\fancyhead[R]{\textsc{Hornbill}}
+\renewcommand{\headrulewidth}{0pt}
+
+\begin{document}
+
+\noindent Now we need to send a covering letter along with the curriculum vitae. The following letter is an example.
+
+\vspace{1.5em}
+
+\begin{tcolorbox}[colback=pink!20, colframe=white, arc=0mm, top=1.5em, bottom=1.5em, left=2em, right=2em]
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{0.5em}
+    
+    Your name and address \\
+    Date
+    
+    \vspace{1em}
+    The Manager \\
+    Human Resource Division \\
+    Wonderland Communications \\
+    South Street, Salem \\
+    Tamil Nadu
+    
+    \vspace{1em}
+    Dear Sir,
+    
+    \vspace{0.5em}
+    I would like to apply for the post of Customer Support Executive that you have advertised in \textit{The Hindu} of 15 November 2005.
+    
+    \noindent\hspace*{1.5em} I have just completed my Diploma in Communication from the State Polytechnic. I was happy to note that you do not insist on experience.
+    
+    \noindent\hspace*{1.5em} If selected, this would be my first job. I am a sincere, honest and hardworking person. I am friendly and outgoing and have good communication skills.
+    
+    \noindent\hspace*{1.5em} I am enclosing my resume and look forward to meeting you in person.
+    
+    \vspace{1em}
+    Regards, \\
+    Yours truly,
+    
+    \vspace{2em}
+    (Signature)
+\end{tcolorbox}
+
+\vspace{1.5em}
+
+\noindent \textbf{Activities}
+
+\begin{enumerate}[label=\arabic*., leftmargin=*]
+    \item You have not received your Roll Number card for the Class XII examination. Write a letter to the Registrar, Examination Branch, CBSE asking for it.
+\end{enumerate}
+
+\end{document}
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{margin=1in}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\usepackage{microtype}
+
+% Header configuration
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\textsc{Letter-writing}}
+\fancyhead[R]{101}
+\renewcommand{\headrulewidth}{0pt}
+
+\begin{document}
+
+\begin{enumerate}[label=\arabic*., leftmargin=*]
+    \setcounter{enumi}{1}
+    \item Write a letter to the President, Residents' Welfare Association of your locality suggesting some measures that could be taken for solving the problem of water scarcity and conserving water.
+    \item Write a letter to the editor of a newspaper expressing your views on the deteriorating law and order situation in your city.
+    \item Write a letter to your friend narrating your experiences in a rescue operation.
+    \item Write a letter to the Editor of a magazine describing a dance performance you have seen or an art gallery you have visited.
+\end{enumerate}
+
+\end{document}
+
