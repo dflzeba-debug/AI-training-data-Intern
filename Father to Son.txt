@@ -1,0 +1,112 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{xcolor}
+\usepackage{setspace}
+
+\definecolor{poemtitle}{RGB}{236, 0, 140} % Approximate magenta color from the original title
+
+\title{\Huge\color{poemtitle}\fontfamily{pzc}\selectfont Father to Son}
+\author{\Large\itshape Elizabeth Jennings}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\begin{center}
+\begin{minipage}{0.65\textwidth}
+\setstretch{1.3}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1em}
+
+I do not understand this child\\
+Though we have lived together now\\
+In the same house for years. I know\\
+Nothing of him, so try to build\\
+Up a relationship from how\\
+He was when small. Yet have I killed\\
+
+The seed I spent or sown it where\\
+The land is his and none of mine?\\
+We speak like strangers, there's no sign\\
+Of understanding in the air.\\
+This child is built to my design\\
+Yet what he loves I cannot share.\\
+
+Silence surrounds us. I would have\\
+Him prodigal, returning to\\
+His father's house, the home he knew,\\
+Rather than see him make and move\\
+His world. I would forgive him too,\\
+Shaping from sorrow a new love.\\
+
+Father and son, we both must live\\
+On the same globe and the same land,\\
+He speaks: I cannot understand\\
+Myself, why anger grows from grief.\\
+We each put out an empty hand,\\
+Longing for something to forgive.
+
+\end{minipage}
+\end{center}
+
+\end{document}
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{enumitem}
+\usepackage{xcolor}
+
+% Color definition for headers matching the original style
+\definecolor{notespink}{RGB}{236, 0, 140} 
+
+\begin{document}
+
+% Header section
+\noindent 72 \hfill \textsc{Hornbill}
+
+\vspace{2em}
+
+% Main title section
+\noindent {\Large\bfseries Think it out}
+
+\vspace{1em}
+
+% Questions section
+\begin{enumerate}[label=\arabic*., leftmargin=2em, itemsep=0.5em]
+    \item Does the poem talk of an exclusively personal experience or is it fairly universal?
+    \item How is the father's helplessness brought out in the poem?
+    \item Identify the phrases and lines that indicate distance between father and son.
+    \item Does the poem have a consistent rhyme scheme?
+\end{enumerate}
+
+\vspace{3em}
+
+% Notes title line decoration
+\begin{center}
+    {\color{notespink}\vrule height 0.5ex width 3em}\ \ {\Large\bfseries\color{notespink} Notes}\ \ {\color{notespink}\vrule height 0.5ex width 3em}
+\end{center}
+
+\vspace{1.5em}
+
+% Notes content
+\noindent The poem is autobiographical in nature and describes the relationship between a father and his son.
+
+\vspace{1.5em}
+
+\noindent {\bfseries Understanding the poem}
+
+\vspace{0.8em}
+
+\noindent Questions are based on
+\begin{itemize}[label=\textbullet, leftmargin=2em, itemsep=0.3em]
+    \item the universality of the experience described
+    \item phrases in the poem
+    \item rhyme scheme in the poem
+\end{itemize}
+
+\end{document}
+
