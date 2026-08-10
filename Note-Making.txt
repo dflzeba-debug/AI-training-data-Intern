@@ -1,0 +1,143 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{microtype}
+
+% Define a custom color for the heading to match the original style
+\definecolor{headingpink}{HTML}{E0115F}
+
+% Title formatting
+\titleformat{\section}
+  {\normalfont\Large\bfseries\itshape\color{headingpink}}
+  {\thesection.}
+  {0.5em}
+  {}
+
+\begin{document}
+
+\setcounter{section}{0} % To match the section numbering from the image
+\section{Note-making}
+
+\noindent \textsc{Note-making} is an important study skill. It also helps us at work. We need to draw the main points of the material we read as it is difficult to remember large chunks of information. Let us begin with an example.
+
+\vspace{1.5em}
+\noindent \textit{Study the following passage carefully}
+\vspace{1em}
+
+Pheasants are shy, charming birds known for their brilliant plumage. These beautiful birds occupy an important niche in nature's scheme of things. Of the 900 bird species and 155 families, the pheasants belong to the order \textit{Galliformes} and family \textit{Phasianidae}. The \textit{Galliformes} are known as game birds and this includes, pheasants, partridges, quails, grouse, francolins, turkeys and megapodes.
+
+\vspace{1em}
+There are 51 species of pheasants in the world and these are shown in the identification chart brought out by the Environment Society of India (ESI). The purpose of this chart is to create awareness among members of the school eco-clubs under the National Green Corps (NGC) of the Ministry of Environment and Forests, Government of India.
+
+\vspace{1em}
+Except for the Congo Peafowl, all the other pheasants are from Asia. Scientists believe that all pheasants originated from the Himalayas, and then scattered into Tibet, China, Myanmar, South and South East Asian countries as well as the Caucasus Mountains. The jungle fowl and the peafowl spread to South India and Sri Lanka long before the early settlers established themselves in the Indo-Gangetic plain.
+
+\vspace{1em}
+About a third of all the pheasants in the world are found in India. The male blue peafowl (the peacock) is the best known member of the pheasant family and is India's national bird. It occupies a prominent place in India's art, culture and folklore.
+
+\vfill
+\begin{center}
+    \small 2024-25
+\end{center}
+
+\end{document}
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{ulem} % For underlining text across lines
+\usepackage{enumitem}
+
+\begin{document}
+
+\noindent \textbf{\textsc{Step 1}}
+
+\vspace{0.5em}
+\noindent \textit{Notice that the important information has been underlined.}
+
+\vspace{1em}
+\noindent \uline{Pheasants are shy, charming birds known for their brilliant plumage.} These beautiful birds occupy an important niche in nature's scheme of things. Of the 900 bird species and 155 families, \uline{the pheasants belong to the order \textit{Galliformes} and family \textit{Phasianidae}.} The \uline{\textit{Galliformes} are known as game birds} and this includes, pheasants, partridges, quails, grouse, francolins, turkeys and megapodes.
+
+\vspace{1em}
+There are \uline{51 species of pheasants in the world} and these are shown in the \uline{identification chart brought out by the Environment Society of India (ESI). The purpose of this chart is to create awareness among members of the school eco-clubs under the National Green Corps (NGC)} of the Ministry of Environment and Forests, Government of India.
+
+\vspace{1em}
+Except for the Congo Peafowl, all the other pheasants \uline{are from Asia.} Scientists believe that all \uline{pheasants originated from the Himalayas}, and then scattered into Tibet, China, Myanmar, South and South East Asian countries as well as the Caucasus Mountains. The jungle fowl and the peafowl spread to South India and Sri Lanka long before the early settlers established themselves in the Indo-Gangetic plain.
+
+\vspace{1em}
+\uline{About a third of all the pheasants in the world are found in India.} \uline{The male blue peafowl (the peacock) is the best} known member of the pheasant family and is India's national bird. It occupies a prominent place in India's art, culture and folklore.
+
+\vspace{2em}
+\noindent \textbf{\textsc{Step 2}}
+
+\vspace{0.5em}
+\noindent \textit{Read the passage again asking yourself questions and answering them as you read.}
+
+\begin{itemize}[label=\textbullet, leftmargin=*]
+    \item What is the passage about? --- Pheasants
+    \item Where found? --- Asia; particularly India ($1/3$ of total population)
+    \item Origin? --- Himalayas
+    \item Time? --- Long before Indo-Gangetic plain settlements.
+    \item Which group of birds? --- Order: \textit{Galliformes} (game birds); Family --- \textit{Phasianidae}
+\end{itemize}
+
+\end{document}
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage{microtype}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small \textsc{Note-making}}
+\fancyhead[R]{\small 77}
+\renewcommand{\headrulewidth}{0pt}
+
+\begin{document}
+
+\begin{itemize}[label=\textbullet, leftmargin=*]
+    \item How many species? --- 51
+    \item What is the source of information? --- ESI chart
+    \item What is the purpose of the ESI chart? --- Create awareness among school eco-clubs under NGC
+    \item Which is the best known member? --- Peacock, India's national bird
+\end{itemize}
+
+\vspace{2em}
+\noindent \textbf{\textsc{Step 3}}
+
+\vspace{0.5em}
+\noindent \textit{With the help of the answers note down the main points. Write the points without full forms of the verbs.}
+
+\begin{itemize}[label=\textbullet, leftmargin=*]
+    \item Pheasants --- shy birds with bright plumage found largely in Asia, especially India
+    \item Origin in the Himalayas and spread in China, Myanmar, South and SE Asia.
+    \item Order: \textit{Galliformes} --- game birds; Family: \textit{Phasianidae}
+    \item No. of species: 51 (ESI chart)
+    \item Purpose of ESI chart --- Creating awareness among school eco-clubs under NGC.
+    \item Peacock --- India's national bird, member of this family, represented in Indian art, culture and folklore.
+\end{itemize}
+
+\vspace{1.5em}
+\noindent \hspace{2em}\textbf{\textit{Notice}}
+
+\begin{itemize}[label=\textbullet, leftmargin=3.5em]
+    \item Two or three related ideas can be combined into one point.
+    \item Use of colons
+    \item Use of the long dash
+\end{itemize}
+
+\vspace{2em}
+\noindent \textbf{\textsc{Step 4}}
+
+\vspace{0.5em}
+\noindent \textit{Now go over the facts and number them.}
+
+\begin{itemize}[label=\textbullet, leftmargin=*]
+    \item This is only to analyse the process of note-making. With practice you will be able to reach Step 4 immediately, going through Steps 2 and 3 mentally.
+\end{itemize}
+
+\end{document}
+
